@@ -1,0 +1,15 @@
+import { LightningElement } from 'lwc';
+
+export default class LWCAtiv1 extends LightningElement {
+
+
+lead = {
+primeironome: "Ioan",
+sobrenome: "Ravi",
+idade: "25",
+email: "ioanteste@gmail.com",
+classificação: "sei la",
+empresa: "Americanas",
+receitaanual: "R$120.000,00",
+}
+}
