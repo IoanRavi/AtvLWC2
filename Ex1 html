@@ -1,6 +1,6 @@
 <template>
     <lightning-card>
-
+<div>
     <h1> Lead {lead.primeironome} {lead.sobrenome} </h1>
 
     <p>Idade: {lead.idade}</p>
@@ -8,7 +8,7 @@
     <p>Classificação: {lead.classificação}</p>
     <p>Empresa: {lead.empresa}</p>
     <p>Receita Anual: {lead.receitaanual}</p>
-
+</div>
 
     </lightning-card>
 </template>
